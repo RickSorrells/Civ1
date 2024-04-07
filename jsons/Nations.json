@@ -31,7 +31,6 @@
 		"innerColor": [255,200,200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Courage",
-		"uniques": ["Gives its settlers satisfying courage and will. [Ability may/may not change]"],
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Buffalo","St. Louis","Detroit",
 			"New Orleans","Baltimore","Denver","Cincinnati","Dallas","Los Angeles","Las Vegas"],
                 "spyNames": ["Allan Pinkerton", "Lafayette Baker", "George Sharpe", "Elizabeth Van Lew"]
