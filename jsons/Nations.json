@@ -37,9 +37,9 @@
 	},
 
 		{
-		"name": "Greek",
+		"name": "Greece",
 		"leaderName": "Alexander",
-		"adjective": ["greeks"],
+		"adjective": ["greek"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
