@@ -34,5 +34,42 @@
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Buffalo","St. Louis","Detroit",
 			"New Orleans","Baltimore","Denver","Cincinnati","Dallas","Los Angeles","Las Vegas"],
                 "spyNames": ["Allan Pinkerton", "Lafayette Baker", "George Sharpe", "Elizabeth Van Lew"]
+	},
+
+		{
+		"name": "Greek",
+		"leaderName": "Alexander",
+		"adjective": ["greeks"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Hello, there.",
+		"startIntroPart2": "I am he who is an inspiration to all of greece, and I'm deeply grateful to be chosen as this nations leader.",
+		
+		"declaringWar": "Resistance is futile! Prepare to be detroyed!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that you defeated us?!",
+		"introduction": "As our arch nemesis, you are not worth our time.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"favoredReligion": "Paganism",
+		"uniqueName": "Bravery",
+		"cities": ["Athens","Sparta","Corinth","Delphi","Eretria","Pharsalos","Argos","Mycenae","Herakleia",
+			"Antioch","Ephesos","Rhodes","Knossos","Troy","Pergamon","Miletos"],
+                "spyNames": ["Ptolemy", "Cassander", "Seleucus", "Antigones"]
 	}
 ]
