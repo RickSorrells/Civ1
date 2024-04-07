@@ -3,7 +3,7 @@
 		"name": "Civ1",
 		"leaderName": "Abe Lincoln",
 		"adjective": ["Human"],
-		"startBias": ["Snow"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We mean no harm!",
